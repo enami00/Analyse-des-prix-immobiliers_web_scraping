@@ -1,0 +1,501 @@
+Ville_Recherche,Ville_Reelle,Type,Prix,Surface_m2,Prix_m2,Pieces,Latitude,Longitude
+Montpellier,Pomérols,Maison,287000,120.0,2391.67,4,43.390895,3.4992161
+Nice,Saint-Martin-du-Var,Maison,700000,163.15,4290.53,5,43.82197,7.1918
+Rennes,Gévezé,Maison,340000,120.0,2833.33,5,48.2204891,-1.7896366
+Montpellier,Montpellier,Maison,305286,112.1,2723.34,4,43.6112422,3.8767337
+Lille,Flers-en-Escrebieux,Maison,189000,159.0,1188.68,5,50.3978149,3.0614209
+Paris,Paris 15e Arrondissement,Appartement,424620,49.84,8519.66,2,48.8411228,2.2927657
+Rennes,Rennes,Maison,350000,102.0,3431.37,4,48.1030752,-1.6726296
+Toulouse,Saint-Gaudens,Maison,155500,126.0,1234.13,5,43.1077682,0.7247218
+Rennes,Boisgervilly,Maison,240000,118.0,2033.9,6,48.1670889,-2.0651766
+Rennes,Betton,Maison,540000,140.0,3857.14,6,48.1817122,-1.6414898
+Paris,Paris 3e Arrondissement,Appartement,1104000,110.0,10036.36,5,48.864212,2.360936
+Rennes,Cesson-Sévigné,Maison,172500,175.0,985.71,2,48.1197799,-1.6038829
+Rouen,Saint-Eustache-la-Forêt,Maison,140000,102.0,1372.55,5,49.5524805,0.4512736
+Marseille,Berre-l'Étang,Maison,399000,107.0,3728.97,5,43.4758249,5.1673492
+Toulouse,Bruguières,Maison,395000,149.0,2651.01,8,43.7277106,1.411126
+Toulouse,Pin-Balma,Maison,850000,338.0,2514.79,7,43.6283162,1.5337335
+Nice,Cannes,Maison,802000,200.0,4010.0,6,43.5515198,7.0134418
+Nice,Roquebrune-Cap-Martin,Appartement,445000,47.0,9468.09,2,43.7641047,7.4565697
+Marseille,Coudoux,Maison,660000,198.0,3333.33,7,43.5584577,5.2501215
+Rennes,Saint-Méen-le-Grand,Maison,170000,90.0,1888.89,5,48.1894709,-2.1911338
+Lyon,Curis-au-Mont-d'Or,Maison,512000,172.0,2976.74,5,45.8713863,4.823971
+Toulouse,Vieille-Toulouse,Maison,569999,145.0,3931.03,5,43.5271458,1.4455249
+Rouen,Havre,Maison,400000,127.9,3127.44,5,49.4989079,0.1112116
+Marseille,Marseille 4e Arrondissement,Appartement,150000,59.11,2537.64,3,43.3069826,5.4011304
+Lyon,Lyon 3e Arrondissement,Appartement,240000,61.78,3884.75,4,45.7555548,4.8622856
+Marseille,Marseille 12e Arrondissement,Appartement,160000,54.84,2917.58,3,43.3084569,5.4393452
+Rennes,Rennes,Maison,400000,145.0,2758.62,6,48.1030752,-1.6726296
+Rouen,Saint-Aubin-lès-Elbeuf,Maison,100000,80.0,1250.0,3,49.3027,1.0197
+Toulouse,Saint-Gaudens,Maison,138000,104.56,1319.82,6,43.1077682,0.7247218
+Montpellier,Saint-Jean-de-Cornies,Maison,257767,159.63,1614.78,5,43.7444,4.00172
+Rennes,Rennes,Maison,450000,111.0,4054.05,6,48.1030752,-1.6726296
+Marseille,Marseille 3e Arrondissement,Appartement,148600,62.88,2363.23,3,43.3113852,5.3789412
+Nice,Grasse,Appartement,230000,79.71,2885.46,3,43.6538584,6.9264185
+Montpellier,Paulhan,Maison,150000,132.0,1136.36,5,43.5418008,3.4604451
+Marseille,Fontvieille,Maison,399000,140.0,2850.0,5,43.7264844,4.707674
+Nice,Menton,Appartement,430000,70.0,6142.86,3,43.7753495,7.5029213
+Paris,Paris 4e Arrondissement,Appartement,603000,47.38,12726.89,2,48.8562021,2.3556193
+Marseille,Marseille 15e Arrondissement,Appartement,131000,70.0,1871.43,3,43.3531559,5.3647655
+Rennes,Iffendic,Maison,650000,562.0,1156.58,18,48.1290768,-2.0336601
+Paris,Paris 15e Arrondissement,Appartement,669000,67.7,9881.83,4,48.8411228,2.2927657
+Montpellier,Juvignac,Maison,936000,185.0,5059.46,5,43.6140784,3.8101646
+Paris,Paris 5e Arrondissement,Maison,1444000,139.65,10340.14,5,48.8459728,2.3443504
+Rouen,Havre,Appartement,110000,82.54,1332.69,4,49.4989079,0.1112116
+Toulouse,Garin,Maison,277000,189.0,1465.61,9,42.8085,0.519262
+Montpellier,Béziers,Appartement,130000,96.62,1345.48,4,43.3426562,3.2131307
+Toulouse,Eup,Maison,96000,107.0,897.2,6,42.9270449,0.6884929
+Paris,Paris 20e Arrondissement,Appartement,220000,49.7,4426.56,2,48.865042,2.398929
+Montpellier,Juvignac,Maison,530000,161.0,3291.93,5,43.6140784,3.8101646
+Rouen,Havre,Maison,300000,98.0,3061.22,5,49.4966096,0.1294067
+Lille,Gondecourt,Maison,300000,145.0,2068.97,6,50.5432418,2.9830581
+Toulouse,Merville,Maison,572000,215.0,2660.47,8,43.721342,1.2978657
+Montpellier,Montpellier,Appartement,410000,93.68,4376.6,4,43.6112422,3.8767337
+Rouen,Mont-Saint-Aignan,Appartement,210000,66.15,3174.6,3,49.4679,1.0813
+Rouen,Richemont,Maison,55000,50.0,1100.0,3,49.812401,1.6410046
+Nice,Grasse,Appartement,405000,105.21,3849.44,3,43.6538584,6.9264185
+Rennes,Hermitage,Maison,500000,203.0,2463.05,8,48.1243,-1.8183
+Paris,Paris 17e Arrondissement,Appartement,1937023,190.77,10153.71,6,48.8869265,2.3065472
+Lyon,Lyon 5e Arrondissement,Appartement,180000,66.7,2698.65,4,45.7563067,4.8068266
+Marseille,Marseille 15e Arrondissement,Appartement,158000,54.13,2918.9,2,43.3531559,5.3647655
+Montpellier,Montpellier,Maison,610000,154.0,3961.04,5,43.6112422,3.8767337
+Paris,Paris 12e Arrondissement,Appartement,1010000,105.28,9593.47,5,48.8396154,2.3957517
+Lyon,Albigny-sur-Saône,Maison,250000,73.0,3424.66,3,45.8706791,4.8323149
+Marseille,Marseille 6e Arrondissement,Appartement,645000,179.31,3597.12,7,43.2867997,5.3805162
+Lille,Louvroil,Maison,130000,118.42,1097.79,5,50.2644717,3.9623154
+Nice,Cannet,Appartement,90000,20.4,4411.76,1,43.6166671,-0.0512452
+Lille,Lambres-lez-Douai,Maison,110000,80.0,1375.0,6,50.3564041,3.0572513
+Marseille,Marseille 9e Arrondissement,Appartement,196560,70.33,2794.82,4,43.2340735,5.4498978
+Toulouse,Labarthe-Rivière,Maison,70500,190.0,371.05,10,43.0809246,0.6715502
+Montpellier,Sète,Maison,1057300,231.0,4577.06,8,43.4014434,3.6959771
+Marseille,Velaux,Maison,472000,82.0,5756.1,5,43.5217717,5.2540649
+Lyon,Lyon 7e Arrondissement,Appartement,265000,66.19,4003.63,3,45.737442,4.8366972
+Nice,Gaude,Maison,670000,100.0,6700.0,4,43.7228225,7.1503312
+Paris,Paris 6e Arrondissement,Appartement,1140000,69.0,16521.74,3,48.8504333,2.3329507
+Lille,Raismes,Maison,64000,63.0,1015.87,3,50.3916313,3.4823888
+Paris,Paris 17e Arrondissement,Appartement,1135000,110.09,10309.75,4,48.8869265,2.3065472
+Paris,Paris 5e Arrondissement,Appartement,465000,38.81,11981.45,1,48.8459728,2.3443504
+Lyon,Craponne,Appartement,239423,55.09,4346.03,3,45.743476,4.7231057
+Lyon,Villeurbanne,Appartement,270000,99.16,2722.87,5,45.7733573,4.8868454
+Paris,Paris 16e Arrondissement,Appartement,360000,28.0,12857.14,1,48.8636341,2.276485
+Paris,Paris 6e Arrondissement,Appartement,1690000,118.1,14309.91,5,48.8504333,2.3329507
+Rouen,Havre,Maison,180000,98.0,1836.73,4,49.4989079,0.1112116
+Toulouse,Saint-Gaudens,Maison,174900,123.0,1421.95,6,43.1077682,0.7247218
+Nice,Nice,Appartement,300000,43.52,6893.38,2,43.7048586,7.2617606
+Bordeaux,Carbon-Blanc,Appartement,150000,38.0,3947.37,2,44.8937722,-0.50503
+Rouen,Fécamp,Maison,209000,112.0,1866.07,4,49.7577729,0.374891
+Lille,Cambrai,Maison,98700,155.0,636.77,6,50.1757546,3.2346145
+Lyon,Albigny-sur-Saône,Maison,799000,240.0,3329.17,7,45.8706791,4.8323149
+Nice,Cannes,Appartement,450000,82.0,5487.8,3,43.5515198,7.0134418
+Paris,Paris 16e Arrondissement,Appartement,933575,97.1,9614.57,4,48.8636341,2.276485
+Lille,Arnèke,Maison,160000,101.0,1584.16,4,50.8320406,2.4117574
+Paris,Paris 16e Arrondissement,Appartement,1900000,119.74,15867.71,6,48.8636341,2.276485
+Lyon,Grézieu-la-Varenne,Maison,400000,177.0,2259.89,8,45.7479949,4.6910373
+Nice,Menton,Appartement,556604,82.34,6759.83,3,43.7753495,7.5029213
+Paris,Paris 12e Arrondissement,Appartement,440000,52.0,8461.54,2,48.8396154,2.3957517
+Marseille,Tholonet,Maison,3200000,505.0,6336.63,11,43.5217232,5.5120384
+Rennes,Saint-Grégoire,Maison,530000,114.0,4649.12,4,48.1524129,-1.685398
+Paris,Paris 17e Arrondissement,Appartement,734400,82.15,8939.74,3,48.8869265,2.3065472
+Toulouse,Tournefeuille,Appartement,127358,43.0,2961.81,2,43.5832062,1.3460025
+Rouen,Tréport,Maison,96000,30.0,3200.0,1,50.0591099,1.3827656
+Lyon,Caluire-et-Cuire,Appartement,355769,106.53,3339.61,4,45.7969952,4.8423304
+Rennes,Gahard,Maison,388000,219.0,1771.69,8,48.2974956,-1.5183894
+Marseille,Marseille 9e Arrondissement,Appartement,182250,83.08,2193.67,4,43.2340735,5.4498978
+Nice,Mouans-Sartoux,Maison,942000,147.02,6407.29,4,43.6203852,6.9703991
+Lyon,Poleymieux-au-Mont-d'Or,Maison,439000,150.0,2926.67,2,45.856367,4.8001485
+Nice,Roquebrune-Cap-Martin,Maison,3995000,240.0,16645.83,6,43.7641047,7.4565697
+Marseille,Septèmes-les-Vallons,Maison,580000,155.0,3741.94,7,43.3989529,5.3663965
+Lyon,Villefranche-sur-Saône,Appartement,130000,72.1,1803.05,4,45.9864749,4.726611
+Lille,Carnin,Maison,165000,105.0,1571.43,5,50.5197723,2.9609223
+Montpellier,Castelnau-le-Lez,Maison,450000,115.0,3913.04,6,43.6393171,3.9133311
+Rennes,Melesse,Maison,366000,137.0,2671.53,6,48.2175823,-1.6962403
+Rouen,Bolbec,Maison,225000,132.0,1704.55,5,49.5739091,0.4742448
+Lyon,Dommartin,Maison,570000,133.0,4285.71,6,45.8347009,4.7137077
+Paris,Paris 14e Arrondissement,Appartement,995000,87.59,11359.74,3,48.8295585,2.323974
+Rouen,Montivilliers,Maison,220000,138.0,1594.2,5,49.5457966,0.1920827
+Marseille,Marseille 14e Arrondissement,Appartement,135000,62.0,2177.42,3,43.3463614,5.3905916
+Montpellier,Bédarieux,Maison,119485,82.0,1457.13,4,43.6155109,3.1576143
+Paris,Paris 14e Arrondissement,Appartement,995000,87.59,11359.74,3,48.8295585,2.323974
+Lyon,Beauvallon,Maison,230000,127.0,1811.02,5,45.5898174,4.6929566
+Bordeaux,Saint-Émilion,Maison,1400000,235.0,5957.45,7,44.8946048,-0.1749547
+Lille,Solesmes,Maison,130000,117.44,1106.95,6,50.1857534,3.4975923
+Marseille,Peypin,Maison,720000,180.0,4000.0,7,43.3838133,5.5778541
+Toulouse,Launaguet,Maison,299000,78.0,3833.33,4,43.6757142,1.4544605
+Rouen,Sainneville,Maison,230000,96.57,2381.69,5,49.5566905,0.286551
+Marseille,Marseille 5e Arrondissement,Appartement,220000,66.0,3333.33,3,43.2922122,5.3976436
+Paris,Paris 18e Arrondissement,Appartement,825000,75.04,10994.14,3,48.8900117,2.3464668
+Rouen,Criquetot-l'Esneval,Maison,280000,82.74,3384.09,4,49.6449576,0.2661419
+Lille,Valenciennes,Maison,310000,260.0,1192.31,11,50.3579317,3.5234846
+Lyon,Bron,Appartement,115000,35.34,3254.1,2,45.7337532,4.9092352
+Montpellier,Saint-Clément-de-Rivière,Maison,480000,110.0,4363.64,4,43.6843999,3.8466598
+Marseille,Fontvieille,Maison,682000,139.0,4906.47,4,43.7264844,4.707674
+Marseille,Plan-de-Cuques,Maison,310000,94.0,3297.87,4,43.3460029,5.4618046
+Paris,Paris 16e Arrondissement,Appartement,1200000,114.29,10499.61,4,48.8636341,2.276485
+Lyon,Villeurbanne,Appartement,191000,68.37,2793.62,3,45.7733573,4.8868454
+Rouen,Norville,Maison,250000,146.0,1712.33,6,49.4760255,0.6366944
+Bordeaux,Saint-Romain-la-Virvée,Maison,191000,225.0,848.89,7,44.9650148,-0.3993228
+Toulouse,Malvezie,Maison,70000,125.0,560.0,5,43.006079,0.6873787
+Lyon,Villeurbanne,Appartement,155000,52.0,2980.77,2,45.7733573,4.8868454
+Paris,Paris 1er Arrondissement,Appartement,253400,16.0,15837.5,1,48.8646144,2.334396
+Rouen,Lillebonne,Maison,191000,123.0,1552.85,5,49.5188282,0.534411
+Lille,Aulnoy-lez-Valenciennes,Maison,175000,107.9,1621.87,7,50.330848,3.5314621
+Rouen,Havre,Appartement,150000,100.41,1493.88,4,49.4989079,0.1112116
+Paris,Paris 9e Arrondissement,Appartement,422115,40.73,10363.74,2,48.876019,2.339962
+Nice,Saint-Laurent-du-Var,Appartement,330000,59.54,5542.49,2,43.6690101,7.1906969
+Lille,Waziers,Maison,99500,84.0,1184.52,6,50.385206,3.1079103
+Paris,Paris 14e Arrondissement,Appartement,229000,32.51,7043.99,2,48.8295585,2.323974
+Bordeaux,Andernos-les-Bains,Maison,399000,72.8,5480.77,5,44.7476897,-1.0925184
+Rouen,Aumale,Maison,150000,200.0,750.0,5,49.7705,1.75454
+Rouen,Dieppe,Maison,110000,72.67,1513.69,3,49.9214244,1.0811422
+Nice,Vallauris,Maison,1060000,197.0,5380.71,8,43.5761001,7.05859
+Rouen,Nolléval,Maison,89000,48.0,1854.17,4,49.49313,1.48081
+Nice,Nice,Appartement,480000,75.0,6400.0,3,43.7009358,7.2683912
+Lille,Tourcoing,Maison,112000,82.35,1360.05,4,50.7235038,3.1605714
+Bordeaux,Pian-Médoc,Maison,200000,113.0,1769.91,4,44.9549001,-0.6683986
+Bordeaux,Nérigean,Maison,330000,185.0,1783.78,7,44.8417122,-0.2890547
+Lyon,Vaugneray,Maison,480000,158.0,3037.97,8,45.7316723,4.6516864
+Nice,Castellar,Appartement,190000,54.94,3458.32,3,43.8041281,7.497011
+Nice,Peymeinade,Maison,1380000,180.0,7666.67,6,43.641991,6.8756858
+Montpellier,Agde,Appartement,185000,33.79,5474.99,2,43.3124696,3.4707789
+Rennes,Rennes,Maison,720000,168.0,4285.71,6,48.1030752,-1.6726296
+Lyon,Lyon 8e Arrondissement,Appartement,335040,93.0,3602.58,4,45.7351227,4.8707197
+Rennes,Hédé-Bazouges,Maison,220000,73.0,3013.7,4,48.2958022,-1.8022682
+Rennes,Betton,Maison,780000,130.0,6000.0,6,48.1817122,-1.6414898
+Montpellier,Pignan,Maison,650000,138.0,4710.14,5,43.5823652,3.7622591
+Bordeaux,Périssac,Maison,190476,109.0,1747.49,6,45.01906,-0.3234333
+Nice,Antibes,Appartement,250000,37.4,6684.49,2,43.5812868,7.1262071
+Bordeaux,Coutras,Maison,130000,86.0,1511.63,4,45.0407298,-0.1289533
+Rouen,Saussay,Maison,840000,525.0,1600.0,5,49.6345535,0.9398153
+Marseille,Saint-Rémy-de-Provence,Maison,2285000,423.91,5390.3,17,43.7885782,4.8317498
+Marseille,Marseille 2e Arrondissement,Appartement,128000,33.34,3839.23,1,43.3162158,5.3590666
+Montpellier,Restinclières,Maison,380097,124.0,3065.3,4,43.7238,4.03747
+Lyon,Lyon 1er Arrondissement,Appartement,185000,53.32,3469.62,2,45.7701426,4.8297127
+Toulouse,Blajan,Maison,30000,105.0,285.71,5,43.2597,0.642893
+Toulouse,Drémil-Lafage,Maison,375000,122.61,3058.48,5,43.5969276,1.6013136
+Paris,Paris 18e Arrondissement,Appartement,285000,30.81,9250.24,2,48.8900117,2.3464668
+Marseille,Salon-de-Provence,Maison,150000,151.0,993.38,8,43.6405237,5.0980225
+Rouen,Saint-Aubin-sur-Mer,Maison,360000,126.2,2852.61,4,49.8889942,0.8768462
+Lille,Cambrai,Maison,85500,104.0,822.12,4,50.1757546,3.2346145
+Montpellier,Montpellier,Appartement,219000,102.0,2147.06,4,43.6112422,3.8767337
+Lille,Monchecourt,Maison,240000,93.0,2580.65,5,50.3072925,3.2095541
+Bordeaux,Pessac,Maison,430000,130.0,3307.69,5,44.805615,-0.6308396
+Rennes,Hermitage,Maison,190000,78.0,2435.9,5,48.1243,-1.8183
+Marseille,Marseille 10e Arrondissement,Appartement,155000,64.05,2419.98,3,43.2768378,5.4258206
+Montpellier,Graissessac,Maison,15000,78.57,190.91,3,43.6783799,3.0951125
+Paris,Paris 7e Arrondissement,Appartement,300000,22.7,13215.86,1,48.8564911,2.3128
+Paris,Paris 14e Arrondissement,Appartement,654000,79.54,8222.28,4,48.8295585,2.323974
+Paris,Paris 4e Arrondissement,Appartement,2290000,140.24,16329.15,5,48.8562021,2.3556193
+Lyon,Écully,Appartement,200400,67.01,2990.6,3,45.7754498,4.7785644
+Lille,Valenciennes,Appartement,95000,98.21,967.31,3,50.3579317,3.5234846
+Montpellier,Montpellier,Appartement,340000,75.21,4520.68,4,43.6112422,3.8767337
+Paris,Paris 16e Arrondissement,Appartement,2208969,188.44,11722.4,5,48.8636341,2.276485
+Paris,Paris 9e Arrondissement,Appartement,1550000,139.37,11121.48,5,48.876019,2.339962
+Nice,Cannes,Appartement,420000,93.19,4506.92,4,43.5515198,7.0134418
+Montpellier,Béziers,Appartement,45000,26.54,1695.55,1,43.3426562,3.2131307
+Toulouse,Toulouse,Maison,450000,127.0,3543.31,5,43.6114306,1.4542101
+Toulouse,Montesquieu-Volvestre,Maison,400000,170.0,2352.94,5,43.2086251,1.2301306
+Bordeaux,Sainte-Radegonde,Maison,800000,173.0,4624.28,5,44.8056404,0.0162853
+Rennes,Sens-de-Bretagne,Maison,240000,116.0,2068.97,6,48.332872,-1.5359128
+Nice,Nice,Appartement,639000,121.95,5239.85,5,43.7048586,7.2617606
+Lille,Maubeuge,Maison,235000,124.0,1895.16,5,50.2785723,3.974307
+Lyon,Villefranche-sur-Saône,Appartement,189050,72.28,2615.52,4,45.9864749,4.726611
+Bordeaux,Louchats,Maison,380000,260.0,1461.54,8,44.51253,-0.566898
+Bordeaux,Teste-de-Buch,Maison,300000,70.0,4285.71,3,44.6174125,-1.1388387
+Marseille,Marseille 5e Arrondissement,Appartement,91600,22.3,4107.62,1,43.2922122,5.3976436
+Bordeaux,Bordeaux,Maison,780000,227.0,3436.12,8,44.841225,-0.5800364
+Nice,Cannes,Maison,805000,180.0,4472.22,5,43.5515198,7.0134418
+Bordeaux,Blanquefort,Maison,613000,193.0,3176.17,6,44.9088982,-0.6300363
+Marseille,Aureille,Maison,1260000,285.0,4421.05,10,43.7071613,4.9477104
+Paris,Paris 11e Arrondissement,Appartement,658397,58.41,11271.99,2,48.858416,2.379703
+Paris,Paris 7e Arrondissement,Appartement,690000,53.88,12806.24,3,48.8564911,2.3128
+Lille,Seclin,Maison,155900,79.0,1973.42,4,50.5452102,3.0252819
+Nice,Saint-Laurent-du-Var,Appartement,180000,27.67,6505.24,1,43.6690101,7.1906969
+Toulouse,Saint-Gaudens,Maison,162000,125.0,1296.0,6,43.1077682,0.7247218
+Bordeaux,Libourne,Maison,237143,159.0,1491.47,7,44.9133742,-0.2427217
+Nice,Mougins,Appartement,225000,31.82,7071.02,2,43.6008898,6.9963543
+Toulouse,Fousseret,Maison,280000,131.0,2137.4,5,43.281098,1.0650888
+Marseille,Marseille 5e Arrondissement,Appartement,99000,34.29,2887.14,2,43.2922122,5.3976436
+Nice,Spéracèdes,Maison,1426000,294.49,4842.27,5,43.6492014,6.8590577
+Paris,Paris 1er Arrondissement,Appartement,692185,23.78,29107.86,1,48.8646144,2.334396
+Lille,Fontaine-Notre-Dame,Maison,217000,107.0,2028.04,6,50.1678765,3.1623277
+Montpellier,Florensac,Maison,94000,68.33,1375.68,3,43.3827078,3.4631135
+Paris,Paris 15e Arrondissement,Appartement,1396917,156.68,8915.73,6,48.8411228,2.2927657
+Paris,Paris 14e Arrondissement,Appartement,250000,34.29,7290.76,1,48.8295585,2.323974
+Nice,Menton,Appartement,240000,65.0,3692.31,3,43.7753495,7.5029213
+Toulouse,Saint-Gaudens,Maison,162000,182.0,890.11,5,43.1077682,0.7247218
+Montpellier,Castries,Maison,315049,97.0,3247.93,5,43.6779101,3.9868904
+Rennes,Saint-Malon-sur-Mel,Maison,450000,228.0,1973.68,7,48.0933722,-2.0976082
+Rouen,Gournay-en-Bray,Maison,140000,100.36,1394.98,5,49.4824794,1.7241534
+Marseille,Marseille 7e Arrondissement,Maison,480777,90.0,5341.97,4,43.2829975,5.3624129
+Nice,Grasse,Appartement,225000,76.31,2948.5,3,43.6538584,6.9264185
+Nice,Nice,Appartement,260000,62.12,4185.45,2,43.7048586,7.2617606
+Rouen,Flamanville,Maison,240000,105.0,2285.71,4,49.6348243,0.839636
+Nice,Châteauneuf-Grasse,Maison,3000000,200.0,15000.0,8,43.6747381,6.9758576
+Lyon,Albigny-sur-Saône,Maison,370000,130.0,2846.15,5,45.8706791,4.8323149
+Lyon,Curis-au-Mont-d'Or,Maison,339000,73.0,4643.84,3,45.8713863,4.823971
+Nice,Nice,Appartement,828571,118.7,6980.38,5,43.7009358,7.2683912
+Marseille,Marseille 12e Arrondissement,Maison,1200000,150.0,8000.0,6,43.3084569,5.4393452
+Nice,Antibes,Maison,400000,68.0,5882.35,3,43.5857692,7.1192691
+Nice,Roquebrune-Cap-Martin,Appartement,685000,74.8,9157.75,3,43.7641047,7.4565697
+Lille,Ostricourt,Maison,240000,240.0,1000.0,7,50.4538801,3.0314735
+Montpellier,Sussargues,Maison,578155,171.0,3381.02,6,43.7131593,4.003973
+Paris,Paris 3e Arrondissement,Appartement,333500,30.0,11116.67,2,48.864212,2.360936
+Lyon,Villefranche-sur-Saône,Appartement,250000,107.13,2333.61,5,45.9864749,4.726611
+Rouen,Lillebonne,Maison,85000,80.0,1062.5,4,49.5188282,0.534411
+Nice,Cagnes-sur-Mer,Maison,650000,108.0,6018.52,5,43.6612012,7.1513834
+Lyon,Denicé,Maison,280000,192.0,1458.33,6,46.0012306,4.645956
+Nice,Cannes,Appartement,420000,64.07,6555.33,3,43.5515198,7.0134418
+Lyon,Arnas,Maison,219000,71.0,3084.51,4,46.0235247,4.7071167
+Paris,Paris 16e Arrondissement,Appartement,670825,76.4,8780.43,4,48.8636341,2.276485
+Rouen,Neuville-Ferrières,Maison,168500,80.5,2093.17,4,49.7153953,1.4575782
+Rennes,Acigné,Maison,290000,98.0,2959.18,5,48.1334474,-1.5341182
+Marseille,Cassis,Maison,3500000,500.0,7000.0,22,43.2140359,5.5396318
+Montpellier,Saint-Clément-de-Rivière,Maison,770000,283.0,2720.85,7,43.6843999,3.8466598
+Paris,Paris 15e Arrondissement,Appartement,120000,14.0,8571.43,1,48.8411228,2.2927657
+Nice,Menton,Appartement,65300,58.07,1124.5,3,43.7753495,7.5029213
+Bordeaux,Camblanes-et-Meynac,Maison,567300,149.0,3807.38,5,44.7683222,-0.4851871
+Rouen,Gruchet-Saint-Siméon,Maison,250000,130.0,1923.08,7,49.8180523,0.8925567
+Lyon,Arnas,Maison,165000,85.0,1941.18,4,46.0235247,4.7071167
+Toulouse,Muret,Maison,255000,110.0,2318.18,5,43.4599858,1.3262332
+Marseille,Marseille 9e Arrondissement,Appartement,476000,116.35,4091.1,5,43.2340735,5.4498978
+Montpellier,Montpellier,Appartement,140000,38.77,3611.04,2,43.6112422,3.8767337
+Marseille,Salon-de-Provence,Appartement,275300,96.0,2867.71,5,43.6405237,5.0980225
+Rouen,Saint-Nicolas-d'Aliermont,Maison,180000,104.0,1730.77,5,49.878403,1.2140639
+Montpellier,Saussan,Maison,238000,155.0,1535.48,8,43.5731235,3.774257
+Toulouse,Bagiry,Maison,103000,100.0,1030.0,5,42.9781,0.626826
+Paris,Paris 7e Arrondissement,Maison,790000,54.7,14442.41,3,48.8564911,2.3128
+Rennes,Mordelles,Maison,200000,160.0,1250.0,4,48.0733304,-1.8485204
+Toulouse,Alan,Maison,100000,128.0,781.25,4,43.2294039,0.9402442
+Bordeaux,Saint-Médard-en-Jalles,Maison,860000,228.0,3771.93,7,44.8958887,-0.7170764
+Rouen,Sainte-Adresse,Maison,516500,140.0,3689.29,6,49.5052482,0.0805655
+Marseille,Marseille 1er Arrondissement,Appartement,115000,40.92,2810.36,2,43.300067,5.3825025
+Toulouse,Cazères,Appartement,198000,120.0,1650.0,8,43.2056788,1.0865093
+Montpellier,Montpellier,Maison,749000,107.05,6996.73,3,43.6112422,3.8767337
+Rennes,Betton,Maison,350000,138.0,2536.23,6,48.1817122,-1.6414898
+Montpellier,Montpellier,Maison,855000,193.0,4430.05,11,43.6112422,3.8767337
+Marseille,Berre-l'Étang,Maison,399000,104.0,3836.54,4,43.4758249,5.1673492
+Lille,Cambrai,Maison,82500,92.3,893.82,5,50.1757546,3.2346145
+Lille,Tourcoing,Maison,50000,66.8,748.5,3,50.7235038,3.1605714
+Montpellier,Sète,Appartement,127000,50.39,2520.34,2,43.4014434,3.6959771
+Rouen,Elbeuf,Maison,158000,85.0,1858.82,5,49.2871086,1.0108998
+Toulouse,Pechbusque,Maison,689999,245.0,2816.32,7,43.5282546,1.4581749
+Bordeaux,Saint-Aubin-de-Médoc,Maison,290000,67.0,4328.36,3,44.9134219,-0.7246734
+Paris,Paris 13e Arrondissement,Appartement,600000,61.68,9727.63,3,48.8290105,2.3636124
+Toulouse,Cierp-Gaud,Maison,170300,73.28,2323.96,3,42.9134556,0.6387284
+Lyon,Écully,Maison,375000,78.74,4762.51,5,45.7754498,4.7785644
+Rennes,Iffendic,Maison,205000,137.0,1496.35,6,48.1290768,-2.0336601
+Montpellier,Montpellier,Appartement,370000,79.6,4648.24,3,43.6112422,3.8767337
+Marseille,Marseille 6e Arrondissement,Appartement,239000,64.0,3734.38,3,43.2867997,5.3805162
+Bordeaux,Lège-Cap-Ferret,Maison,577000,113.0,5106.19,5,44.7951052,-1.1472098
+Rouen,Heurteauville,Maison,230000,149.0,1543.62,5,49.444798,0.8128955
+Rennes,Montfort-sur-Meu,Maison,320000,215.0,1488.37,10,48.1372782,-1.955145
+Marseille,Marseille 7e Arrondissement,Appartement,232000,38.0,6105.26,2,43.2829975,5.3624129
+Nice,Nice,Appartement,294000,36.0,8166.67,1,43.7009358,7.2683912
+Montpellier,Brenas,Maison,145000,118.0,1228.81,5,43.6532047,3.2568727
+Lille,Cambrai,Maison,199120,122.0,1632.13,6,50.1757546,3.2346145
+Lyon,Montanay,Maison,570000,196.0,2908.16,6,45.8781153,4.8602097
+Nice,Cagnes-sur-Mer,Maison,735000,75.0,9800.0,4,43.6612012,7.1513834
+Lyon,Arnas,Maison,230000,106.53,2159.02,6,46.0235247,4.7071167
+Marseille,Maussane-les-Alpilles,Maison,1500000,145.0,10344.83,6,43.7210449,4.8055115
+Rouen,Dieppe,Appartement,60000,21.52,2788.1,1,49.9214244,1.0811422
+Montpellier,Montpellier,Appartement,125000,42.8,2920.56,2,43.6112422,3.8767337
+Lyon,Lyon 6e Arrondissement,Appartement,380769,75.43,5047.98,3,45.7681444,4.8528227
+Montpellier,Montpellier,Appartement,275243,99.94,2754.08,4,43.6112422,3.8767337
+Rouen,Trait,Maison,75000,90.0,833.33,11,49.4819151,0.8087513
+Rennes,Iffendic,Maison,333900,122.0,2736.89,6,48.1290768,-2.0336601
+Nice,Vallauris,Appartement,145000,36.0,4027.78,2,43.5761001,7.05859
+Rennes,Miniac-Morvan,Maison,308000,114.29,2694.9,6,48.5150492,-1.8995937
+Marseille,Salon-de-Provence,Maison,333334,86.09,3871.92,4,43.6405237,5.0980225
+Marseille,Mouriès,Maison,230000,80.0,2875.0,4,43.6891957,4.871428
+Rennes,Saint-Onen-la-Chapelle,Maison,180000,101.0,1782.18,6,48.1773634,-2.173272
+Paris,Paris 16e Arrondissement,Appartement,600000,54.0,11111.11,2,48.8636341,2.276485
+Lyon,Craponne,Appartement,260000,86.45,3007.52,3,45.743476,4.7231057
+Rouen,Criquetot-l'Esneval,Maison,185000,92.25,2005.42,5,49.6449576,0.2661419
+Paris,Paris 7e Arrondissement,Appartement,3495145,241.59,14467.26,8,48.8564911,2.3128
+Nice,Nice,Appartement,235000,63.43,3704.87,3,43.7009358,7.2683912
+Paris,Paris 18e Arrondissement,Appartement,580000,68.72,8440.05,3,48.8900117,2.3464668
+Rennes,Talensac,Maison,430000,168.0,2559.52,7,48.1092798,-1.9269063
+Lyon,Neuville-sur-Saône,Maison,410880,98.0,4192.65,5,45.8765557,4.8395051
+Rennes,Betton,Maison,539000,171.0,3152.05,8,48.1817122,-1.6414898
+Lille,Wasquehal,Maison,263000,90.0,2922.22,4,50.6691577,3.1312447
+Toulouse,Villeneuve-Tolosane,Maison,308700,176.0,1753.98,6,43.5236403,1.3410072
+Nice,Châteauneuf-Grasse,Maison,790000,101.0,7821.78,4,43.6747381,6.9758576
+Bordeaux,Saint-Denis-de-Pile,Maison,335577,145.0,2314.32,6,44.9776426,-0.1988453
+Toulouse,Couladère,Maison,100000,65.0,1538.46,3,43.2000205,1.0911201
+Lyon,Porte des Pierres Dorées,Maison,280000,114.0,2456.14,7,45.9627805,4.6487639
+Marseille,Grans,Maison,335000,82.39,4066.03,4,43.606758,5.063379
+Bordeaux,Villenave-d'Ornon,Maison,340000,124.0,2741.94,6,44.7737872,-0.5595029
+Nice,Castellar,Maison,799000,129.0,6193.8,5,43.8041281,7.497011
+Marseille,Marseille 3e Arrondissement,Appartement,138500,51.52,2688.28,3,43.3113852,5.3789412
+Rennes,Rennes,Maison,699000,102.0,6852.94,5,48.1030752,-1.6726296
+Lyon,Brindas,Maison,270000,95.65,2822.79,3,45.7206375,4.6940681
+Lille,Lambersart,Maison,360000,112.03,3213.42,4,50.6477924,3.0223644
+Paris,Paris 15e Arrondissement,Appartement,608695,52.05,11694.43,3,48.8411228,2.2927657
+Bordeaux,Cénac,Maison,500000,280.0,1785.71,7,44.7799834,-0.4617644
+Toulouse,Seysses,Appartement,127000,47.21,2690.11,2,43.4982966,1.3115111
+Nice,Nice,Appartement,600000,111.59,5376.83,4,43.7048586,7.2617606
+Paris,Paris 15e Arrondissement,Appartement,950000,91.68,10362.13,4,48.8411228,2.2927657
+Bordeaux,Camblanes-et-Meynac,Maison,960000,250.0,3840.0,9,44.7683222,-0.4851871
+Nice,Grasse,Appartement,333400,85.47,3900.78,4,43.6538584,6.9264185
+Toulouse,Noé,Maison,170000,88.0,1931.82,5,43.3545352,1.2749497
+Montpellier,Juvignac,Maison,305000,90.0,3388.89,5,43.6140784,3.8101646
+Rennes,Betton,Maison,445000,118.0,3771.19,6,48.1817122,-1.6414898
+Lyon,Saint-Genis-les-Ollières,Maison,432692,71.58,6044.87,3,45.7601,4.72654
+Bordeaux,Coutras,Maison,188571,196.0,962.1,6,45.0407298,-0.1289533
+Montpellier,Saint-Drézéry,Maison,383981,87.17,4404.97,4,43.7314311,3.9775826
+Bordeaux,Fronsac,Maison,538462,241.0,2234.28,7,44.9229141,-0.2740925
+Marseille,Marseille 6e Arrondissement,Appartement,69800,23.5,2970.21,1,43.2867997,5.3805162
+Lyon,Neuville-sur-Saône,Maison,480769,131.02,3669.43,4,45.8765557,4.8395051
+Nice,Levens,Maison,462857,125.14,3698.71,5,43.8477377,7.2401105
+Rouen,Havre,Appartement,345000,163.43,2111.0,6,49.4966096,0.1294067
+Rennes,Saint-Malo,Maison,530000,130.0,4076.92,6,48.649518,-2.0260409
+Bordeaux,Monségur,Maison,125000,110.0,1136.36,5,44.6505592,0.0803607
+Lille,Abancourt,Maison,99500,88.0,1130.68,4,50.2345839,3.2122711
+Paris,Paris 7e Arrondissement,Appartement,1087379,89.06,12209.51,3,48.8564911,2.3128
+Paris,Paris 16e Arrondissement,Appartement,710000,70.0,10142.86,2,48.8636341,2.276485
+Lille,Douai,Maison,98000,85.0,1152.94,3,50.3675677,3.0804641
+Rouen,Arelaune-en-Seine,Maison,90000,55.05,1634.88,3,49.4649446,0.7518237
+Rouen,Rouen,Appartement,160000,50.91,3142.8,3,49.4452254,1.0913423
+Paris,Paris 17e Arrondissement,Appartement,109600,13.3,8240.6,1,48.8869265,2.3065472
+Paris,Paris 15e Arrondissement,Maison,1650000,139.6,11819.48,6,48.8411228,2.2927657
+Rennes,Rennes,Maison,740000,163.0,4539.88,8,48.1030752,-1.6726296
+Montpellier,Saint-Gély-du-Fesc,Maison,510000,111.0,4594.59,4,43.6913873,3.803981
+Paris,Paris 17e Arrondissement,Appartement,2250000,203.03,11082.11,7,48.8869265,2.3065472
+Bordeaux,Camiac-et-Saint-Denis,Maison,525000,380.0,1381.58,20,44.7948064,-0.2753866
+Lille,Lambersart,Maison,520000,97.0,5360.82,4,50.6477924,3.0223644
+Nice,Roquebrune-Cap-Martin,Maison,4450000,382.0,11649.21,10,43.7641047,7.4565697
+Nice,Saint-Laurent-du-Var,Appartement,215000,40.6,5295.57,2,43.6690101,7.1906969
+Bordeaux,Bouscat,Maison,685000,132.0,5189.39,6,44.8661755,-0.5992399
+Nice,Menton,Appartement,284000,76.0,3736.84,3,43.7753495,7.5029213
+Montpellier,Montpellier,Maison,510000,167.0,3053.89,6,43.6112422,3.8767337
+Toulouse,Barbazan,Maison,130000,154.0,844.16,7,43.0329,0.624253
+Rouen,Fécamp,Appartement,165740,74.0,2239.73,2,49.7577729,0.374891
+Toulouse,Vigoulet-Auzil,Maison,1140000,260.0,4384.62,8,43.5073,1.46003
+Lille,Rieux-en-Cambrésis,Maison,232000,140.0,1657.14,5,50.2047612,3.353489
+Toulouse,Saint-Orens-de-Gameville,Maison,284762,92.0,3095.24,4,43.5519847,1.5339526
+Lyon,Lyon 3e Arrondissement,Appartement,208000,57.57,3612.99,3,45.7555548,4.8622856
+Toulouse,Labarthe-Rivière,Maison,99000,215.0,460.47,7,43.0809246,0.6715502
+Rennes,Betton,Maison,550000,156.0,3525.64,6,48.1817122,-1.6414898
+Lille,Aniche,Maison,90000,98.0,918.37,4,50.3309169,3.250989
+Lille,Cambrai,Maison,95500,80.0,1193.75,4,50.1757546,3.2346145
+Lyon,Vénissieux,Appartement,167000,50.06,3336.0,2,45.6977109,4.8855966
+Montpellier,Clermont-l'Hérault,Maison,246200,97.0,2538.14,4,43.6263176,3.4302412
+Bordeaux,Lamothe-Landerron,Maison,100000,85.0,1176.47,5,44.55737,0.06059
+Lyon,Villeurbanne,Appartement,255000,75.23,3389.61,3,45.7733573,4.8868454
+Montpellier,Saint-Bauzille-de-Montmel,Maison,350000,176.55,1982.44,5,43.7707441,3.9570777
+Rouen,Havre,Appartement,145000,93.89,1544.36,4,49.4989079,0.1112116
+Bordeaux,Bordeaux,Maison,300000,116.0,2586.21,4,44.7936698,-0.668297
+Rennes,Montfort-sur-Meu,Maison,599000,175.0,3422.86,7,48.1372782,-1.955145
+Montpellier,Cournonterral,Maison,400000,125.0,3200.0,4,43.557935,3.7188857
+Bordeaux,Villegouge,Maison,360000,193.0,1865.28,5,44.96683,-0.30868
+Lyon,Lyon 9e Arrondissement,Appartement,239000,84.54,2827.06,4,45.7815392,4.8007449
+Bordeaux,Gironde-sur-Dropt,Maison,220000,152.0,1447.37,6,44.5908772,-0.0862738
+Lyon,Lyon 6e Arrondissement,Appartement,310000,53.16,5831.45,2,45.7681444,4.8528227
+Nice,Roquebrune-Cap-Martin,Appartement,2970000,177.41,16740.88,5,43.7641047,7.4565697
+Lyon,Écully,Appartement,462427,103.3,4476.54,4,45.7754498,4.7785644
+Bordeaux,Monségur,Maison,630000,315.0,2000.0,10,44.6505592,0.0803607
+Lille,Guesnain,Maison,119000,78.0,1525.64,3,50.3493,3.15059
+Lille,Estrées,Maison,300000,172.0,1744.19,5,50.3006771,3.0714068
+Montpellier,Vendargues,Appartement,330000,125.76,2624.05,5,43.6568263,3.9687448
+Bordeaux,Libourne,Maison,1100000,317.0,3470.03,10,44.9133742,-0.2427217
+Lyon,Villefranche-sur-Saône,Appartement,155000,61.0,2540.98,4,45.9864749,4.726611
+Bordeaux,Bouscat,Maison,600000,104.0,5769.23,5,44.8661755,-0.5992399
+Rennes,Saint-Méen-le-Grand,Maison,63900,64.0,998.44,3,48.1894709,-2.1911338
+Toulouse,Valentine,Maison,135000,145.0,931.03,6,43.0949075,0.704317
+Bordeaux,Pompignac,Maison,680000,214.0,3177.57,6,44.85028,-0.43736
+Rouen,Saint-Maclou-la-Brière,Maison,453000,264.0,1715.91,12,49.655427,0.4654155
+Marseille,Marseille 12e Arrondissement,Appartement,334000,135.0,2474.07,7,43.3084569,5.4393452
+Rennes,Chevaigné,Maison,308000,113.0,2725.66,5,48.2120161,-1.6303916
+Marseille,Marseille 2e Arrondissement,Appartement,138500,33.34,4154.17,2,43.3162158,5.3590666
+Lille,Curgies,Maison,310000,160.0,1937.5,6,50.3260979,3.6089319
+Rennes,Pleine-Fougères,Maison,900000,200.0,4500.0,6,48.5336672,-1.5638065
+Marseille,Eygalières,Maison,4700000,468.0,10042.74,15,43.7613682,4.9493545
+Rouen,Bec-de-Mortagne,Maison,220000,113.5,1938.33,5,49.7032634,0.4466335
+Lyon,Écully,Appartement,450000,116.0,3879.31,5,45.7754498,4.7785644
+Lille,Noyelles-sur-Escaut,Maison,105000,83.0,1265.06,4,50.1387279,3.1807195
+Rennes,Saint-Grégoire,Maison,280000,70.0,4000.0,4,48.1524129,-1.685398
+Lyon,Arnas,Appartement,147500,53.6,2751.87,3,46.0235247,4.7071167
+Bordeaux,Pian-Médoc,Maison,380000,122.0,3114.75,4,44.9549001,-0.6683986
+Rennes,Gévezé,Maison,380000,203.0,1871.92,6,48.2204891,-1.7896366
+Bordeaux,Hure,Maison,160000,153.4,1043.02,5,44.5453211,-0.0009543
+Rouen,Saint-Aubin-lès-Elbeuf,Maison,171600,126.0,1361.9,5,49.3027,1.0197
+Rouen,Rouen,Appartement,375000,95.84,3912.77,4,49.4452254,1.0913423
+Marseille,Sénas,Maison,390500,161.5,2417.96,6,43.7446686,5.078624
+Toulouse,Saint-Béat-Lez,Maison,35000,80.0,437.5,4,42.8983162,0.6879078
+Nice,Saint-Cézaire-sur-Siagne,Appartement,330000,75.0,4400.0,3,43.6505213,6.7925537
+Rouen,Beaubec-la-Rosière,Maison,219999,150.0,1466.66,8,49.6454242,1.531435
+Rouen,Monchaux-Soreng,Maison,210000,145.0,1448.28,6,49.9480308,1.5957318
+Lille,Cambrai,Maison,278000,179.37,1549.87,7,50.1757546,3.2346145
+Marseille,Tarascon,Maison,1181250,355.0,3327.46,14,43.8053654,4.6585115
+Montpellier,Lieuran-lès-Béziers,Maison,255000,129.0,1976.74,4,43.4188948,3.2371874
+Rennes,Betton,Maison,273000,103.0,2650.49,4,48.1817122,-1.6414898
+Bordeaux,Parempuyre,Maison,1330000,415.0,3204.82,6,44.9485379,-0.6052708
+Toulouse,Argut-Dessous,Maison,54000,63.0,857.14,3,42.8892382,0.7182721
+Rennes,Mouazé,Maison,360000,136.0,2647.06,6,48.2323558,-1.6106784
+Nice,Nice,Appartement,140000,50.87,2752.11,2,43.7048586,7.2617606
+Bordeaux,Saint-Michel-de-Castelnau,Maison,80000,326.0,245.4,9,44.2825126,-0.1096505
+Lyon,Villefranche-sur-Saône,Appartement,110000,32.43,3391.92,2,45.9864749,4.726611
+Bordeaux,Créon,Maison,229500,78.0,2942.31,6,44.7746764,-0.3482858
+Bordeaux,Loupes,Maison,190000,70.0,2714.29,4,44.80475,-0.39407
+Toulouse,Montesquieu-Volvestre,Appartement,63000,120.0,525.0,4,43.2086251,1.2301306
+Montpellier,Valras-Plage,Maison,340000,156.2,2176.7,7,43.2496196,3.29192
+Lille,Cambrai,Maison,105500,75.0,1406.67,3,50.1757546,3.2346145
+Montpellier,Montpellier,Appartement,92000,18.17,5063.29,1,43.6112422,3.8767337
+Marseille,Destrousse,Maison,370000,100.0,3700.0,4,43.3765828,5.6058304
+Bordeaux,Roquebrune,Maison,290000,185.0,1567.57,5,44.6286853,0.0226196
+Bordeaux,Lamothe-Landerron,Maison,230000,152.0,1513.16,6,44.55737,0.06059
+Lyon,Lyon 3e Arrondissement,Appartement,144500,27.8,5197.84,1,45.7555548,4.8622856
+Lille,Raimbeaucourt,Maison,130000,90.0,1444.44,5,50.4404358,3.1008809
+Bordeaux,Talence,Maison,440000,134.0,3283.58,6,44.8088438,-0.5879629
+Marseille,Port-Saint-Louis-du-Rhône,Maison,160000,71.0,2253.52,3,43.3880925,4.8033753
+Bordeaux,Mesterrieux,Maison,260000,250.0,1040.0,8,44.6461331,-0.0141405
+Rennes,Cesson-Sévigné,Maison,850000,167.0,5089.82,6,48.1197799,-1.6038829
+Rouen,Havre,Appartement,135000,47.02,2871.12,2,49.4966096,0.1294067
+Bordeaux,Barie,Maison,575900,480.0,1199.79,15,44.5705801,-0.1155487
+Bordeaux,Lacanau,Maison,761000,157.0,4847.13,8,44.9776088,-1.0784851
+Montpellier,Clermont-l'Hérault,Maison,235000,88.0,2670.45,4,43.6263176,3.4302412
+Marseille,Tarascon,Maison,235000,84.0,2797.62,4,43.8053654,4.6585115
+Rouen,Bihorel,Appartement,71000,61.73,1150.17,3,49.4543405,1.1159756
+Lille,Annœullin,Maison,145000,92.0,1576.09,5,50.5279,2.92648
+Bordeaux,Lège-Cap-Ferret,Maison,4600000,300.0,15333.33,8,44.7951052,-1.1472098
+Rouen,Saint-Pierre-lès-Elbeuf,Maison,172000,133.0,1293.23,6,49.2745217,1.0476368
+Marseille,Maussane-les-Alpilles,Maison,920000,226.0,4070.8,6,43.7210449,4.8055115
+Montpellier,Lodève,Maison,80000,104.0,769.23,5,43.73106,3.31892
+Toulouse,Lalouret-Laffiteau,Maison,293000,172.0,1703.49,6,43.1861,0.702207
+Lille,Bersée,Maison,295000,85.0,3470.59,5,50.4822798,3.1471959
+Bordeaux,Bordeaux,Maison,1725000,320.0,5390.62,9,44.841225,-0.5800364
+Rouen,Montivilliers,Maison,230000,87.4,2631.58,4,49.5457966,0.1920827
+Lille,Neuville-Saint-Rémy,Maison,93500,88.0,1062.5,5,50.1879,3.21763
+Toulouse,Auzeville-Tolosane,Maison,358000,136.0,2632.35,5,43.5292199,1.4829226
+Lille,Curgies,Maison,136000,105.0,1295.24,4,50.3260979,3.6089319
+Lyon,Jonage,Maison,462427,148.0,3124.51,6,45.7965175,5.0475625
+Toulouse,Miramont-de-Comminges,Maison,75950,81.0,937.65,3,43.0943,0.746247
+Rouen,Isneauville,Maison,355000,119.0,2983.19,5,49.4988394,1.1416384
+Rennes,Melesse,Maison,330000,233.0,1416.31,5,48.2175823,-1.6962403
+Montpellier,Combaillaux,Maison,738000,230.0,3208.7,6,43.6772,3.76494
+Rennes,Saint-Briac-sur-Mer,Maison,1200000,263.0,4562.74,8,48.6183398,-2.1327847
+Lille,Nivelle,Maison,380900,147.0,2591.16,5,50.469547,3.4582207
+Toulouse,Saint-Gaudens,Maison,195000,85.61,2277.77,5,43.1077682,0.7247218
+Montpellier,Montpellier,Appartement,299000,108.0,2768.52,3,43.6112422,3.8767337
+Montpellier,Saint-Gély-du-Fesc,Maison,850000,310.0,2741.94,10,43.6913873,3.803981
+Montpellier,Castelnau-le-Lez,Maison,432524,139.0,3111.68,5,43.6393171,3.9133311
+Lille,Lambres-lez-Douai,Maison,150000,113.0,1327.43,6,50.3564041,3.0572513
+Rennes,Iffendic,Maison,255000,110.0,2318.18,6,48.1290768,-2.0336601
+Toulouse,Saint-Gaudens,Maison,60000,125.0,480.0,4,43.1077682,0.7247218
+Toulouse,Fonbeauzard,Maison,200000,75.0,2666.67,4,43.6792404,1.4263393
+Lille,Erre,Maison,197000,104.0,1894.23,5,50.3615503,3.3147152
+Toulouse,Castanet-Tolosan,Maison,335000,132.0,2537.88,6,43.517214,1.4980801
+Lille,Flers-en-Escrebieux,Maison,128400,92.2,1392.62,5,50.3978149,3.0614209
+Toulouse,Quint-Fonsegrives,Appartement,220000,65.04,3382.53,3,43.5854856,1.528301
+Lille,Ligny-en-Cambrésis,Maison,126600,197.0,642.64,7,50.0984224,3.3783707
+Lille,Raismes,Maison,187000,102.0,1833.33,6,50.3916313,3.4823888
+Toulouse,Aspet,Maison,25000,44.93,556.42,3,43.0142026,0.803305
+Rennes,Betton,Maison,610000,200.0,3050.0,7,48.1817122,-1.6414898
+Lille,Comines,Maison,230000,89.0,2584.27,5,50.7653265,3.0066319
+Rennes,Gévezé,Maison,290000,145.0,2000.0,6,48.2204891,-1.7896366
+Rennes,Dinard,Maison,450000,66.39,6778.13,3,48.6320379,-2.0580178
+Toulouse,Drémil-Lafage,Maison,448000,200.0,2240.0,8,43.5969276,1.6013136
+Rennes,Betton,Maison,330000,114.0,2894.74,5,48.1817122,-1.6414898
+Toulouse,Aurignac,Maison,226500,141.0,1606.38,6,43.2177831,0.8817586
+Lille,Lambres-lez-Douai,Maison,147000,113.0,1300.88,6,50.3564041,3.0572513
+Toulouse,Toulouse,Maison,840000,200.0,4200.0,8,43.6114306,1.4542101
